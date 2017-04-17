@@ -1,0 +1,2 @@
+usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/luohanjie/SLAM/Code/catkin_ws_orbslam_loadmap/devel -DCMAKE_INSTALL_PREFIX=/home/luohanjie/SLAM/Code/catkin_ws_orbslam_loadmap/install -G Unix Makefiles

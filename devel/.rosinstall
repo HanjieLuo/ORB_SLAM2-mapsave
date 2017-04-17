@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/luohanjie/SLAM/Code/catkin_ws_orbslam_loadmap/devel/setup.sh
